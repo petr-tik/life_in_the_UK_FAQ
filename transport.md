@@ -29,6 +29,6 @@
 ## Поиск маршрутов
 
 * [Citymapper](https://citymapper.com/)
-* Лондон Гор Транс - [официальный сайт Лондонской траспортной компании, TfL](tfl.gov.uk)
-* [GoogleMaps](maps.google.co.uk)
+* Лондон Гор Транс - [официальный сайт Лондонской траспортной компании, TfL](https://tfl.gov.uk/)
+* [GoogleMaps](https://maps.google.co.uk)
 
