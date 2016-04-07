@@ -28,7 +28,7 @@
 
 ## Поиск маршрутов
 
-* (Citymapper)[https://citymapper.com/]
-* (TfL)[tfl.gov.uk]
-* (GoogleMaps)[maps.google.co.uk]
+* [Citymapper](https://citymapper.com/)
+* [TfL](tfl.gov.uk)
+* [GoogleMaps](maps.google.co.uk)
 
